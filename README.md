@@ -650,7 +650,8 @@ int main() {
 ```
 ## Output:
 
-![CRYOP5RAIL](https://github.com/user-attachments/assets/7522a2f2-2a0e-40a7-bf6e-e3dc4ee7c7e4)
+![cryop1](https://github.com/user-attachments/assets/3e98a844-9a95-4ff5-8b2a-e3f03b8acf50)
+
 
 
 ## Result 
